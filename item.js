@@ -10,4 +10,4 @@ transport.open (
       container.innerHTML = this.responceText
     }
  }
- transport.send
+ transport.send()
